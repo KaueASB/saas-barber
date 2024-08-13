@@ -1,10 +1,8 @@
-# Aula Zero
+# TODO
 
-- [x] Setup do banco
-- [x] Seeding do banco (colocar dados)
-- [] Introdução ao Next.js
-- [] Tailwind e Shadcn
-- [] Git Hooks
+- [] Estilização desktop
+- [] Deve ser possível avaliar uma barbearia
+- [] Deve ser possível mostrar o raiting de cada barbearia
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 

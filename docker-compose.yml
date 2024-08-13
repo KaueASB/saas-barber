@@ -1,9 +1,7 @@
-version: "3"
-
 services:
   postgres:
     image: postgres:latest
-    container_name: fsw-barber-postgres
+    container_name: barber-postgres
     environment:
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: password
