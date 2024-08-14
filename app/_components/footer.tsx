@@ -6,7 +6,14 @@ const Footer = () => {
       <Card>
         <CardContent className="px-5 py-6">
           <p className="text-sm text-gray-400">
-            © 2024 Copyright <span className="font-bold">KJR Barber Shop</span>
+            © 2024 Copyright {""}
+            <a
+              href="https://kjdev.com.br"
+              target="_blank"
+              className="font-bold hover:text-primary hover:underline"
+            >
+              KJR Desenvolvimento
+            </a>
           </p>
         </CardContent>
       </Card>
